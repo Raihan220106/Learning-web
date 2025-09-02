@@ -4,7 +4,7 @@ Website Belajar Online adalah platform edukasi berbasis web yang dibangun dengan
 
 ---
 
-## ✨ Fitur Utama
+## ✨ Fitur Utama 
 - 🔐 **Autentikasi User**: Registrasi & login menggunakan JWT  
 - 🎥 **Kursus Online**: Materi berupa video, artikel, dan kuis  
 - 📊 **Progress Tracking**: Pantau perkembangan belajar tiap siswa  
